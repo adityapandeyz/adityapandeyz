@@ -29,10 +29,11 @@ Here are some ideas to get you started:
  Founder @ <a href='https://dresolution.tech'>dotResolution</a>
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
-
+</p> -->
+<p align="center><a href="https://giphy.com/gifs/fullmetal-alchemist-edward-elric-ispEc1253326c"></a></p>
+                                                                                                
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
   
 <p align="left">
