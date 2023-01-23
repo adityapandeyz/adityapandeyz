@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 <p><em>Flutter Developer x College Student</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
 
+<h1 align="center">
+ Founder @ <a href='https://dresolution.tech'>dotResolution</a>
+</h1>
+
 <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p>
