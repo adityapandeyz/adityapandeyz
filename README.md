@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="center">
-  <img src= "https://user-images.githubusercontent.com/40023090/213973633-0cb98ab1-4d5e-4a28-a053-c3271fdba4a4.gif">
+  <img src= "https://user-images.githubusercontent.com/40023090/213973633-0cb98ab1-4d5e-4a28-a053-c3271fdba4a4.gif"/>
 </p>
 
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
