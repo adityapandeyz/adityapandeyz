@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityapandeyz)](https://github.com/anuraghazra/github-readme-stats)
