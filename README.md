@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p> -->
-<p align="center><a href="https://giphy.com/gifs/fullmetal-alchemist-edward-elric-ispEc1253326c"></a></p>
+<p align="center><a href="https://media.giphy.com/media/ispEc1253326c/giphy.gif"></a></p>
                                                                                                 
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
   
