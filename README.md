@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <p><em>Flutter Developer x College Student</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
 
+
 <h1 align="center">
  Founder @ <a href='https://dresolution.tech'>dotResolution</a>
 </h1>
@@ -32,8 +33,11 @@ Here are some ideas to get you started:
 <!-- <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p> -->
- <center>
- ![giphy](https://user-images.githubusercontent.com/40023090/213973633-0cb98ab1-4d5e-4a28-a053-c3271fdba4a4.gif)                                                        </center>
+
+<p align="center">
+  <img src= "(https://user-images.githubusercontent.com/40023090/213973633-0cb98ab1-4d5e-4a28-a053-c3271fdba4a4.gif">
+</p>
+
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
   
 <p align="left">
