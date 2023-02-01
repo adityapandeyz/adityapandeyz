@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
- Founder @ <a href='https://dresolution.tech'>dotResolution</a>
+ Founder @ <a href='https://cosmosyn.tech'>Cosmosyn</a>
 </h1>
 
 <!-- <p align="center">
