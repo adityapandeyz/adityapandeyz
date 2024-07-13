@@ -50,3 +50,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandeyz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Apart from programming and software development, I have a keen interest in 3D modeling, texturing, rendering, and game development. Below are some of the renders I created last year.
+
+
