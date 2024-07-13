@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 </em></p> -->
 
 
-<h1 align="center">
- Founder @ <a href='https://cosmosyn.tech'>Cosmosyn</a>
-</h1>
-
 <!-- <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p> -->
