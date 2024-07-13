@@ -54,7 +54,11 @@ Apart from programming and software development, I have a keen interest in 3D mo
 
 | Render | Render | Render |
 | ------ | ------ | ------ |
+| <img src="https://github.com/user-attachments/assets/41f015b1-922b-49db-9448-d6e1152d1a27" alt="temple_3_render_cycles_photoshoped" width="200"/> | <img src="https://github.com/user-attachments/assets/be5bd668-488c-4e7e-b0e6-4f8902bc3a62" alt="temple_4_render_optix_photoshoped" width="200"/> | <img src="https://github.com/user-attachments/assets/eee7b7ee-94ec-478e-a54f-508cdfe8c8f2" alt="the_arena_cycles_render_photoshoped" width="200"/> |
 | <img src="https://github.com/user-attachments/assets/placeholder.png" alt="hq_2_cycles_render_photoshoped" width="200"/> | <img src="https://github.com/user-attachments/assets/placeholder.png" alt="sapt_rishi_cycles_render_photoshoped" width="200"/> | <img src="https://github.com/user-attachments/assets/667c040e-d284-4d6c-a41f-57f6bd952de7" alt="gateway_to_shangrila_1" width="200"/> |
 | <img src="https://github.com/user-attachments/assets/7dd257f2-3ac7-472d-b31c-8d4625998dd3" alt="ian_hubert_sci_fi_megastructure_cycles" width="200"/> | <img src="https://github.com/user-attachments/assets/9395f6ae-a3bf-4ef9-bd4b-439b70c4180b" alt="max_hay_crazy_render_with_geometry_nodes_composited" width="200"/> | <img src="https://github.com/user-attachments/assets/8977b626-77d7-40a5-b5c6-a392dc5c693f" alt="max_hay_industrial_scene" width="200"/> |
 | <img src="https://github.com/user-attachments/assets/995dcc3e-2fc5-47b2-a88a-387516d89383" alt="more_buildings_ian_hubert_optix_render" width="200"/> | <img src="https://github.com/user-attachments/assets/965a5adb-6894-483b-87e9-4b1b51a1965d" alt="procedural_buildings_trial_1_render_optix_photoshoped" width="200"/> | <img src="https://github.com/user-attachments/assets/fdbe0c9d-7b81-4c37-8eee-4fcdd21fb9c3" alt="procedural_planet_eevee_ssrt0 5" width="200"/> |
-| <img src="https://github.com/user-attachments/assets/41f015b1-922b-49db-9448-d6e1152d1a27" alt="temple_3_render_cycles_photoshoped" width="200"/> | <img src="https://github.com/user-attachments/assets/be5bd668-488c-4e7e-b0e6-4f8902bc3a62" alt="temple_4_render_optix_photoshoped" width="200"/> | <img src="https://github.com/user-attachments/assets/eee7b7ee-94ec-478e-a54f-508cdfe8c8f2" alt="the_arena_cycles_render_photoshoped" width="200"/> |
+
+## Tools Used
+- **Blender**: For modeling and rendering.
+- **Adobe Substance 3D**: For texturing.
