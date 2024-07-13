@@ -1,4 +1,4 @@
-![shivling_cycles_render_2_photoshoped](https://github.com/user-attachments/assets/4a312b9d-cb6e-412f-9ec5-3f795a1e3d39)<!-- ### Hi there 👋
+<!-- ### Hi there 👋
  -->
 <!--
 **adityapandeyz/adityapandeyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,6 +59,6 @@ Apart from programming and software development, I have a keen interest in 3D mo
 | ![more_buildings_ian_hubert_optix_render](https://github.com/user-attachments/assets/995dcc3e-2fc5-47b2-a88a-387516d89383) | ![procedural_buildings_trial_1_render_optix_photoshoped](https://github.com/user-attachments/assets/965a5adb-6894-483b-87e9-4b1b51a1965d) | ![procedural_planet_eevee_ssrt0 5](https://github.com/user-attachments/assets/fdbe0c9d-7b81-4c37-8eee-4fcdd21fb9c3) |
 | ![temple_3_render_cycles_photoshoped](https://github.com/user-attachments/assets/41f015b1-922b-49db-9448-d6e1152d1a27) | ![temple_4_render_optix_photoshoped](https://github.com/user-attachments/assets/be5bd668-488c-4e7e-b0e6-4f8902bc3a62) | ![the_arena_cycles_render_photoshoped](https://github.com/user-attachments/assets/eee7b7ee-94ec-478e-a54f-508cdfe8c8f2) |
 | ![the_sea_of_discombobulator_cycles_optix_composited_noAtmo](https://github.com/user-attachments/assets/d1acc617-8271-42e0-8123-16ef30d43729) | ![the_shrine_cycles_render_1_photoshoped](https://github.com/user-attachments/assets/f36ba5f4-f3f3-4dc3-9e67-d838c079af1b) | ![kailash_photoshop](https://github.com/user-attachments/assets/f4d85aee-0e8d-432b-a3aa-a39a889c05d0) |
-| ![shivling_cycles_render_2_photoshoped](https://github.com/user-attachments/assets/placeholder.png) |  |  |
+| ![shivling_cycles_render_2_photoshoped](https://github.com/user-attachments/assets/4a312b9d-cb6e-412f-9ec5-3f795a1e3d39) |  |  |
 
 
