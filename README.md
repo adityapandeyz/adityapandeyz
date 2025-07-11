@@ -48,10 +48,6 @@ Here are some ideas to get you started:
  -->
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandeyz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-Apart from programming, I have a keen interest in 3D modeling, texturing, rendering, and game development. Below are some of the renders I created last year with https://github.com/blender/blender.
-
 | Render | Render | Render |
 | ------ | ------ | ------ |
 | <img src="https://github.com/user-attachments/assets/41f015b1-922b-49db-9448-d6e1152d1a27" alt="temple_3_render_cycles_photoshoped" width="200"/> | <img src="https://github.com/user-attachments/assets/be5bd668-488c-4e7e-b0e6-4f8902bc3a62" alt="temple_4_render_optix_photoshoped" width="200"/> | <img src="https://github.com/user-attachments/assets/eee7b7ee-94ec-478e-a54f-508cdfe8c8f2" alt="the_arena_cycles_render_photoshoped" width="200"/> |
